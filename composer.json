@@ -1,0 +1,9 @@
+{
+    "name": "ksfraser/ksf_teams_ui",
+    "description": "Teams_UI",
+    "type": "project",
+    "require": {
+        "ksfraser/database": "*",
+        "ksfraser/ksf_modulesdao": "*"
+    }
+}
